@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.exe
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.deps.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\bin\Debug\netcoreapp3.1\PocOnTemplateDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.dll
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.pdb
+C:\Users\Lenovo\Downloads\Monocept\PocOnTemplateDP\PocOnTemplateDP\obj\Debug\netcoreapp3.1\PocOnTemplateDP.genruntimeconfig.cache
